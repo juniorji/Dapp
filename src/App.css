@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+#alto{
+  float:right;
+  display:inline;
+  padding-right:10%;
+}
+#basso{
+  float:left;
+  display:block;
+  padding-right:10%;
+}
+.sx{
+  float:left;
+  display:flex;
+}
